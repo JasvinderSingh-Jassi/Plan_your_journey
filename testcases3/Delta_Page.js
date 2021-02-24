@@ -5,6 +5,9 @@
 
 "use strict";
 let Delta_Page = function() {
+    
+    //URL to access plan your journey application
+    this.URL="https://www.delta.com/apac/en";
 
     //Navigation bar
     this.Logo=element(by.className("siteLogo"));
