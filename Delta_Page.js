@@ -99,18 +99,6 @@ let Delta_Page = function() {
     this.To=element(by.id("arrivalcitylink"));
     this.Submit_status=element(by.id("btn-flight-sts-submit"));
     
-
-    
-    
-    
-    
-
-
-    
-    
-    
-   
-
 };
 //exporting the variables
 module.exports = new Delta_Page();
